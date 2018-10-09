@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/facebook-logins?view=aspnetcore-2.1&tabs=aspnetcore2x
+
+
+Facebook Developers app 
+
+
+https://www.c-sharpcorner.com/article/authentication-using-facebook-in-asp-net-core-2-0/

@@ -1,0 +1,12 @@
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\bin\Debug\netcoreapp2.0\IdentityApplication.deps.json
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\bin\Debug\netcoreapp2.0\IdentityApplication.runtimeconfig.json
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\bin\Debug\netcoreapp2.0\IdentityApplication.runtimeconfig.dev.json
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\bin\Debug\netcoreapp2.0\IdentityApplication.dll
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\bin\Debug\netcoreapp2.0\IdentityApplication.pdb
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\IdentityApplication.csprojResolveAssemblyReference.cache
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\IdentityApplication.csproj.CoreCompileInputs.cache
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\IdentityApplication.AssemblyInfoInputs.cache
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\IdentityApplication.AssemblyInfo.cs
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\IdentityApplication.dll
+D:\MyProjects\Identity\IdentityApplication\IdentityApplication\obj\Debug\netcoreapp2.0\IdentityApplication.pdb
